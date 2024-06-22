@@ -85,7 +85,7 @@ Provide the Django model definition, and examples of ORM queries for creating, r
 
 Total Points: 50
 Each grading criteria is worth 10 points
-Total time: 2 Hours
+Total time: 1,5 Hours
 
 1. **Thought Process and Methodical Approach**
    - Clear documentation of the project plan and individual contributions.
