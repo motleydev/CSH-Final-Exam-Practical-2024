@@ -3,6 +3,8 @@
 #### Project Overview
 The final project involves creating a simple note-taking application where users can create, view, update, and delete notes. This project will be built entirely in Python using Django to handle both the front-end and back-end functionalities. The application will utilize a SQLite database to store note data and Docker for deployment. The goal is to demonstrate your understanding of front-end development, back-end development, DevOps, and data structures/database management.
 
+A final feature will be revealed on the day of the test, but you are welcome to dry-run the project and bring example code with you. The use of LLMs is also allowed.
+
 ### Project Sections
 
 #### 1. Front-end Development
@@ -80,6 +82,10 @@ Provide the Django model definition, and examples of ORM queries for creating, r
 ```
 
 ### Grading Criteria
+
+Total Points: 50
+Each grading criteria is worth 10 points
+Total time: 2 Hours
 
 1. **Thought Process and Methodical Approach**
    - Clear documentation of the project plan and individual contributions.
